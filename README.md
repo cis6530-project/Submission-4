@@ -1,5 +1,8 @@
 This is the GitHub SUBMISSION 4 Repository for the Fall 2025 project of CIS6530 - Cyber Threat Intelligence and Adversarial Risk Analysis of the MCTI at the University of Guelph.
 
+**NOTE TO TA**
+Dataset contains 610 processed OpCode dataset 
+
 Contributors:
 
 Nafis Ahmed Awsaf, nawsaf@uoguelph.ca, Student ID: 1402517 Jacob Drobena, jdrobena@uoguelph.ca, Student ID: 0969071
